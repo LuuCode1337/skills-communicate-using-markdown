@@ -8,10 +8,11 @@ This is a short, meaningful commit message that describes the change I made to t
 
 >Pretty cool right?
 
-```Code Example
+``` python
+for i in range(n)
+  x = i + 1
 
 Iamreallycool = TRUE
-
 
 ```
 
